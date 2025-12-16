@@ -1,0 +1,3 @@
+# No whitespace after the comma or in the keyboard name!
+config SEEEDUINO_XIAO_BLE
+    def_bool $(shields_list_contains,seeeduino_xiao_ble)
