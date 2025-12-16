@@ -1,8 +1,8 @@
-if POSIX_SEEED_XIAO
+if my_dongle
 
 # Max 16 characters in keyboard name
 config ZMK_KEYBOARD_NAME
-    default "My Board"
+    default "My Dongle"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y

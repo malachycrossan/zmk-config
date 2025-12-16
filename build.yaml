@@ -26,7 +26,7 @@ include:
     shield: corne_right nice_view_adapter nice_view
     cmake-args: -DCONFIG_ZMK_SPLIT=y -DCONFIG_ZMK_SPLIT_ROLE_CENTRAL=n
   - board: xiao_ble
-    shield: posix_seeed_xiao
+    shield: my_dongle
   - board: nice_nano
     shield: settings_reset
   - board: xiao_ble
