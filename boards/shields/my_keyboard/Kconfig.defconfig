@@ -1,4 +1,4 @@
-if SEEEDUINO_XIAO_BLE
+if POSIX_SEEED_XIAO
 
 # Max 16 characters in keyboard name
 config ZMK_KEYBOARD_NAME
